@@ -6980,7 +6980,7 @@
       "This web part demonstrates displaying the list of flow button of Power Automate."
     ],
     "creationDateTime": "2022-02-09",
-    "updateDateTime": "2022-02-09",
+    "updateDateTime": "2022-03-28",
     "products": [
       "SharePoint"
     ],
@@ -6991,7 +6991,7 @@
       },
       {
         "key": "SPFX-VERSION",
-        "value": "1.13.1"
+        "value": "1.14.0"
       }
     ],
     "thumbnails": [
@@ -11215,7 +11215,7 @@
       "This web part demonstrates displaying the list of approval requests of Power Automate. Power Automate provides a new workflow feature that replaces SharePoint workflows, but it is a Power Platform feature, not a Microsoft 365 feature. You can display approval requests from only Power Automate site. This web part enable to display approval requests from SharePoint site."
     ],
     "creationDateTime": "2022-01-11",
-    "updateDateTime": "2022-01-22",
+    "updateDateTime": "2022-03-28",
     "products": [
       "SharePoint"
     ],
@@ -11226,7 +11226,7 @@
       },
       {
         "key": "SPFX-VERSION",
-        "value": "1.13.0"
+        "value": "1.14.0"
       }
     ],
     "thumbnails": [
@@ -11262,7 +11262,7 @@
       "This web part provides loggedin user's outlook events with some advanced features"
     ],
     "creationDateTime": "2021-08-18",
-    "updateDateTime": "2021-10-04",
+    "updateDateTime": "2022-03-28",
     "products": [
       "SharePoint"
     ],
@@ -11273,7 +11273,7 @@
       },
       {
         "key": "SPFX-VERSION",
-        "value": "1.12.1"
+        "value": "1.15.0"
       },
       {
         "key": "PNPCONTROLS",
@@ -11291,7 +11291,7 @@
     "authors": [
       {
         "gitHubAccount": "chandaniprajapati",
-        "company": "",
+        "company": "Rapid Circle",
         "pictureUrl": "https://github.com/chandaniprajapati.png",
         "name": "Chandani Prajapati",
         "twitter": "Chandani_SPD"
@@ -15749,7 +15749,7 @@
       "This web part demonstrates Star Ratings capablities to SharePoint News. The Ratings site collection feature provides Likes and Star Ratings, but SharePoint News provides only provides Likes. This web part can get or set ratings of the current page."
     ],
     "creationDateTime": "2021-10-07",
-    "updateDateTime": "2022-01-06",
+    "updateDateTime": "2022-03-28",
     "products": [
       "SharePoint"
     ],
@@ -15760,7 +15760,7 @@
       },
       {
         "key": "SPFX-VERSION",
-        "value": "1.12.1"
+        "value": "1.14.0"
       }
     ],
     "thumbnails": [
@@ -17075,7 +17075,7 @@
       "This solution creates a customizable Tiles Web part, it uses a stored collection from the PnP `PropertyFieldCollectionData` control and allows the user to choose the color scheme (theme or custom) and to set the size of the tiles. By default the tiles use a fluid flex layout to use the available screen area."
     ],
     "creationDateTime": "2021-07-14",
-    "updateDateTime": "2022-03-25",
+    "updateDateTime": "2022-03-28",
     "products": [
       "SharePoint"
     ],
@@ -17112,6 +17112,11 @@
         "name": "Fredrik Thorild",
         "company": "Sogeti Sweden",
         "pictureUrl": "https://github.com/fthorild.png"
+      },
+      {
+        "gitHubAccount": "Jwaegebaert",
+        "name": "Jasey Waegebaert",
+        "pictureUrl": "https://github.com/Jwaegebaert.png"
       }
     ],
     "references": [
